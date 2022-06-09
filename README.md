@@ -1,14 +1,9 @@
 <!-- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=33F35F=&size=40&width=800&duration=6969&lines=®️+Welcome+to+my+profile)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=0ACDFC=&size=35&width=750&duration=6969&lines=JUST+CP+THESE+DAYS.....!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=0ACDFC=&size=35&width=750&duration=6969&lines=JUST+LEETCODE+THESE+DAYS.....!!)](https://git.io/typing-svg)
 
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=0ACDFC=&size=35&width=750&duration=6969&lines=Hi+there+,I'm+Rajat Joshi)](https://git.io/typing-svg) -->
-
-
-
-<!-- # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/"width="30px"> Hi there, I'm Rajat joshi. -->
 <!-- Hi.gif
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) -->
@@ -40,16 +35,15 @@
 
 - 🌱 I’m currently learning **WEB-**
 
-- 🙌 Github **Rajat Joshi**
+- 🙌 Github **Mohit Gusain**
 
 - 🤝 I’m looking for help with **collaborate on Projects.**
 
-- 📫 How to reach me **Rajatjoshi7535@gmail.com**
+- 📫 How to reach me **mohitgusain230@gmail.com**
 
 - ⚡ Fun fact 🙌 **Those who cannot remember the past are condemned to repeat it.**
 
-<!-- <h3 align="right"></h3>
-<a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=bap" width="340" alt="Rajat_Joshi's Dev Card"/></a>
+
 
  -->
 ## 👩‍💻 IDE 
@@ -120,23 +114,7 @@
 
 
 
-<!-- ## Connect with me:
-<p align="left">
-<a href="https://twitter.com/rajat__joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajat__joshi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajat joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat joshi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rajat joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rajat joshi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rajat_1835" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajat_1835" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajat_joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajat_joshi" height="30" width="40" /></a>
-<a href="https://discord.gg/RAJAT#9098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RAJAT#9098" height="30" width="40" /></a>
-</p>
 
- -->
-
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MOHIT914908&show_icons=true&locale=en&layout=compact" alt="MOHIT914908" /></p>
- -->
-<!-- 
 
 
 
@@ -154,7 +132,7 @@
 
  -->
 
-<a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=ryg" width="400" alt="Rajat_Joshi's Dev Card"/></a>
+
 
 
  ![Alt Text](https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif )
@@ -192,16 +170,9 @@
  
  
 
-<!-- 
-## Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHIT914908&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-  ## GitHub Stats:
-  ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHIT914908&show_icons=true&theme=tokyonight)
-    -->
     
     
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MOHIT914908&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="RAJAT's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHIT914908&theme=github_dark&layout=compact&hide_border=true" /></a> |
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MOHIT914908&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Mohit's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHIT914908&theme=github_dark&layout=compact&hide_border=true" /></a> |
 
 <!-- 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
